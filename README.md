@@ -1,4 +1,4 @@
-# Running GTA with Ultimate ASI Loader on Arch Linux (Bottles + Wine Staging)
+# Running modded/pirated GTA V under Linux
 
 This guide explains how to run GTA (modded, pirated) on **Linux** using **Bottles (Flatpak)**, **Wine-Staging 10.19**, and a custom **ASI Loader (dinput8.dll)**.
 You can set up everything yourself *or* use the provided Wine prefix. 
