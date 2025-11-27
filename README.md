@@ -70,10 +70,10 @@ Creating the launch script
 
 ```bash
 #!/bin/bash
-export WINEPREFIX="<path-to-your-bottle-or-prefix>"
+export WINEPREFIX="<path-to-your-just-created-prefix>"
 export WINEDLLOVERRIDES="dinput8=n,b"
 
-cd "<path-to-your-gta-directory>"
+cd "<path-to-your-gta-root-directory>"
 wine GTA.exe
 ```
 
