@@ -1,6 +1,6 @@
 # Running modded/pirated GTA V under Linux
 
-This guide explains how to run GTA (modded, pirated) on **Linux** using **Bottles (Flatpak)**, **Wine-Staging 10.19**, and  **ULTIMATE ASI Loader (dinput8.dll)**.
+This guide explains how to run GTA (modded, pirated) on **Linux** using **Bottles (Flatpak)**, **Wine-Staging 10.19**, and  **Ultimate ASI Loader (dinput8.dll)**.
 You can set up everything yourself *or* use the provided Wine prefix. 
 
 ---
