@@ -10,14 +10,13 @@ You can set up everything yourself *or* use the provided Wine prefix.
 * Arch Linux (x86_64)
 * Bottles (Flatpak)
 * “Gaming” Bottle (Wine Staging 10.19)
-* Ultimate ASI Loader (Win64)
-  → [https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
+* Ultimate ASI Loader
 * Your GTA installation directory
 * Sept. 27 2025
 
 ---
 
-## 🚀 Method 1: Create and Configure the Bottle (Recommended)
+## Method 1: Create and Configure the Bottle (Recommended)
 
 ### 1. Create a Gaming Bottle
 
@@ -59,6 +58,7 @@ Even if you see errors, try if it worked at the end. Were practially bombing the
 ### 4. Install Ultimate ASI Loader
 
 Download the latest release and place **dinput8.dll** (win64) inside your GTA game root folder.
+→ [https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases](Ultimate ASI Loader)
 Alternatively, you can try to use other ones, such as the OpenIV asi loader, but revert back to this one if it fails.
 
 
