@@ -11,8 +11,7 @@ You can set up everything yourself *or* use the provided Wine prefix.
 * Bottles (Flatpak)
 * “Gaming” Bottle (Wine Staging 10.19)
 * Ultimate ASI Loader
-* Your GTA installation directory
-* Sept. 27 2025
+* Guide created: Sept. 27 2025
 
 ---
 
